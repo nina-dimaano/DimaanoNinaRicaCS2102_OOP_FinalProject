@@ -2,10 +2,8 @@
 
 ---
 
-![KnowTify Logo](https://via.placeholder.com/800x200?text=KnowTify+Logo)
-
 ## **Project Overview**
-**KnowTify** is a Java-based application designed to help students streamline their academic life. It integrates advanced object-oriented programming (OOP) principles to create a cohesive, modular system for managing tasks, schedules, and subjects. The application empowers students by offering task analysis, time management recommendations, and a structured way to organize their academic responsibilities.
+**KnowTify** is a Java-based application designed to help students efficiently organize their study routines and enhance their academic performance.It integrates advanced object-oriented programming (OOP) principles to create a cohesive, modular system for managing tasks, schedules, and subjects. It features robust task management tools that allow students to track assignments, set due dates, and analyze task complexity, along with recommended daily preparation times. The system also offers dynamic class schedule management that automatically updates based on the current day, ensuring students never miss a class. With a seamless registration and login process, KnowTify provides personalized dashboards where students can manage tasks, view schedules, and analyze subjects. The subject analysis function tailors study times based on material complexity, while the profile system tracks study challenges and suggests personalized methods for improvement. By combining these features, KnowTify supports students in maximizing their productivity, effectively managing their time, and achieving academic success.
 
 ### **Key Features**:
 - Manage and analyze tasks with due dates, complexity levels, and recommended daily prep times.
@@ -34,10 +32,10 @@ Classes like **User** and **Dashboard** encapsulate their data, ensuring that se
 
 ## **Supporting Sustainable Development Goal (SDG 4: Quality Education)**
 **KnowTify** directly aligns with the United Nations' Sustainable Development Goal 4, which focuses on ensuring inclusive and equitable quality education for all. By providing students with an efficient system to manage their studies, KnowTify:
-- Promotes effective learning habits.
-- Helps students keep track of school works and deadlines.
-- Reduces stress associated with disorganized schedules.
-- Empowers students to achieve academic success, contributing to lifelong learning opportunities.
+- 🌱 Promotes effective learning habits.
+- 📝 Helps students keep track of school works and deadlines.
+- 😌 Reduces stress associated with disorganized schedules.
+- 📚 Empowers students to achieve academic success, contributing to lifelong learning opportunities.
 
 ---
 
@@ -91,4 +89,3 @@ KnowTify/
 
 ---
 
-![Footer Graphic](https://via.placeholder.com/800x100?text=Achieve+More+with+KnowTify)
